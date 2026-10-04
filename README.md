@@ -48,8 +48,8 @@
 ---
 
 <div align="left">
-  <img height="193em" src="https://streak-stats.demolab.com?user=Tiguer04&theme=dark" />
-  <img height="193em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiguer04&layout=compact&theme=dark" />
+  <img height="193em" src="https://streak-stats.demolab.com?user=miguelcardenasdev&theme=dark" />
+  <img height="193em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcardenasdev&layout=compact&theme=dark" />
 </div>
 
 ---
