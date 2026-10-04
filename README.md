@@ -12,7 +12,7 @@
 - 🚀 I enjoy building web apps from scratch — frontend to backend
 - 🐳 I work with Docker to containerize and deploy my projects
 - 🌐 I've deployed applications on **Railway**, **Render** and used cloud databases on **Aiven**
-- 📬 Contact me: 20mach04@gmail.com
+- 📬 Contact me: miguelcardenashe2004@gmail.com
 ---
  
 ### 🛠️ Technologies & Tools
