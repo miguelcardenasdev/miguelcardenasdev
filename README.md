@@ -77,3 +77,10 @@
 ### 📌 Featured Projects
 
 > 👇 Check out my pinned repositories below to explore my codebase, implementations, and deployments!
+
+<br>
+
+<!-- FOOTER BANNER (INVERTIDO) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+</p>
