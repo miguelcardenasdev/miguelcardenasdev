@@ -1,75 +1,74 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,15,30&height=160&section=header&text=Miguel%20Ángel%20Cárdenas&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=180&section=header&text=Miguel%20Ángel%20Cárdenas%20Hernández&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center"><em>"The expert in anything was once a beginner"</em></h1>
-
 <p align="center">
-  <b>Miguel Ángel Cárdenas Hernández</b><br>
-  <em>From database to UI, I care about every layer of the stack.</em>
+  <em>"The expert in anything was once a beginner"</em><br>
+  <b>Full Stack Developer | Software Engineering Student</b><br>
+  <sub>From database to UI, I care about every layer of the stack.</sub>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/miguel-angel-cardenas-8b6511397"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:miguelcardenashe2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Medellín%2C%20Colombia-0055A5?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Medellín%2C%20Colombia-107C41?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-### 🧑‍💻 About me
+### 🧑‍💻 About Me
 
-- 🎓 Currently studying Software Development
-- 🚀 I enjoy building web apps from scratch — frontend to backend
-- 🐳 I work with Docker to containerize and deploy my projects
-- 🌐 I've deployed applications on **Railway**, **Render** and used cloud databases on **Aiven**
-- 📬 Contact me: miguelcardenashe2004@gmail.com
+- 🎓 **Education:** Currently studying Software Development.
+- 🚀 **Core Focus:** Building web applications from scratch, taking care of both frontend and backend logic.
+- 🐳 **DevOps & Cloud:** Containerizing with **Docker** and deploying on **Railway**, **Render**, and **Aiven**.
 
 ---
 
-### 🛠️ Technologies & Tools
-
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><b>Languages</b></h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,java" />
-      </p>
-      <h4><b>Frameworks & Libraries</b></h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express" />
-        <img height="48em" style="vertical-align: middle; margin-left: 4px;" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><b>Databases & Testing</b></h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white"/>
-      </p>
-      <h4><b>DevOps & Tools</b></h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=miguelcardenasdev&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcardenasdev&layout=compact&theme=tokyonight&hide_border=true" />
+  <b>Languages</b><br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>Frameworks & Libraries</b><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>Databases & Testing</b><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>DevOps & Tools</b><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<p align="center">
+  <img height="185em" src="https://streak-stats.demolab.com?user=miguelcardenasdev&theme=dracula&hide_border=true" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcardenasdev&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-> Don't forget to check out my pinned repositories below! 👇
+> 👇 Check out my pinned repositories below to explore my codebase, implementations, and deployments!
